@@ -1,0 +1,255 @@
+
+*{
+    background-color: black;
+    margin: 0px;
+    color: white;
+}
+
+.intro img {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    
+
+}
+.intro img:hover {
+    border-radius:70%;
+    opacity: 0.5px;
+    height: 450px;
+}
+.intro h1:hover{
+    font-size: 50px;
+   
+}
+.intro h1{
+    font-weight: bolder;
+   
+}
+.intro p{
+    color:aqua
+}
+.intro .po {
+    color:yellow
+}
+.intro table{
+    border-spacing: 60px;
+
+   
+}
+.intro button{
+    height: 40px;
+    width:100px;
+    background-color: darkorange;
+    text-align: center;
+}
+.intro button:hover{
+    background-color:cadetblue
+}
+.grid-container{
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+
+}
+.grid-box{
+    background-color: rgb(55, 42, 42);
+    width: 25%;
+    display: flex;
+    height : 50px;
+    text-align:center;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.explore h1{
+    text-align: center;
+    
+    
+}
+.grid-box:hover{
+    background-color: yellowgreen;
+}
+a{
+    text-decoration: none;
+    background-color: inherit;
+   
+}
+.about{
+    text-align: center;
+}
+.about h1{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.h1{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.me{
+    color:coral;
+}
+.info{
+    text-align: justify;
+    border-spacing: 40px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.span{
+    color:chartreuse
+}
+
+.skills{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+   
+}
+.imgs{
+    height: 100px;
+    width: 100px;
+}
+.imgs:hover{
+    height: 120px;
+    /* width: 150px; */
+}
+.about button:hover{
+    background-color:cadetblue;
+
+}
+.about button{
+    height:40px;
+    width: 100px;
+    background-color: darkorange;
+
+}
+.box p{
+    color:antiquewhite;
+}
+.contact h1{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+i{
+    background-color: inherit;
+    text-decoration: none;
+}
+.in{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+input{
+    height: 40px;
+    width:300px;
+    
+    text-align: center;
+    color:antiquewhite;
+    background-color: rgb(39, 37, 48);
+    margin: 8px;
+}
+.mess{
+    height: 100px;
+    width: 620px;
+}
+.detail h2{
+    margin-top: 20px;
+   
+    
+}
+.detail p{
+    color:darkgrey
+}
+.yoho{
+   height: 40px;
+   width: 150px;
+   margin-left: 2%;
+   margin-top:8px;
+   background-color:darkorange
+   
+  
+}
+hr{
+    border-top: dotted;
+    align-self: center;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    height: 40px;
+    margin-left:45%;
+    margin-right: 45%;
+    color:darkgray;
+    
+   
+    
+}
+.icoms{
+    display:flex;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+.icoms i:hover{
+    font-size: 20px;
+}
+.yoho:hover{
+    background-color:cadetblue
+
+}
+.y{
+    height: 300px;
+    width:30%;
+    border: 2px rgb(208, 255, 0) solid;
+
+}
+.worko img{
+    background-size:cover;
+    height: 300px;
+    width: 100%;
+
+    
+   
+}
+/* .y:hover{
+    height:310px;
+   
+} */
+.worko img:hover{
+    height:310px;
+}
+.worko{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    text-align: center;
+}
+.y h3{
+    margin-top: 30px;
+}
+.y p{
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 400px;
+    color:lightpink;
+}
+.footer{
+    text-align: center;
+    margin-top: 150px;
+    color:ivory
+
+}
+.work h1{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+
